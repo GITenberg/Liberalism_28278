@@ -1,0 +1,36 @@
+_repo: Liberalism_28278
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hobhouse, L. T. (Leonard Trelawny)
+    aliases:
+    - Hobhouse, Leonard Trelawny
+    - Hobhouse, Leonard Trelawney
+    birthdate: 1864
+    deathdate: 1929
+    gutenberg_agent_id: '33241'
+    url: http://www.gutenberg.org/2009/agents/33241
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Trelawny_Hobhouse
+description: '"Still a timeless classic in the liberal tradition. Hobhouse conveys,
+  very succinctly, the importance of a liberal ideology that does not turn its back
+  on social responsibility. Although straightforward, the text is multi-textured with
+  enough subtlety to draw students into a discussion of deeper. issues associated
+  with liberal thought and practice.'
+gutenberg_issued: '2009-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge
+subjects:
+- !lcc 'HM'
+- !lcsh 'Liberalism -- Great Britain'
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+title: Liberalism
+url: http://www.gutenberg.org/ebooks/28278
